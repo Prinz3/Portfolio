@@ -1,4 +1,3 @@
-// src/Pages/About.jsx
 import React from 'react';
 import styled from 'styled-components';
 

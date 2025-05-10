@@ -3,7 +3,7 @@ import daycloud from './assets/daycloud.jpg';
 import starfield from './assets/starfield.jpg';
 
 export const lightTheme = {
-  backgroundImage: `linear-gradient(to bottom, #a0d8f1, #ebf5fc), url(${daycloud})`,
+  backgroundImage: `linear-gradient(to bottom, #a0d8f1, #ebf5fc)`,
   text:        '#1f2937',
   textLight:   '#4b5563',
   headerBg:    '#ffffff',
@@ -16,7 +16,7 @@ export const lightTheme = {
 };
 
 export const darkTheme = {
-  backgroundImage: `linear-gradient(to bottom, #0b0c10, #1f2833), url(${starfield})`,
+  backgroundImage: `linear-gradient(to bottom, #0b0c10, #1f2833)`,
   text:        '#f8f9fa',
   textLight:   '#9ca3af',
   headerBg:    '#1f2937',
